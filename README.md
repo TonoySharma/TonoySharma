@@ -1,38 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:16a34a&height=230&section=header&text=Tonoy%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:22c55e&height=220&section=header&text=Tonoy%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<h2>🚀 MERN Stack Developer</h2>
+<h2>👨‍💻 MERN Stack Developer</h2>
 
 <p>
-Building modern, scalable and user-friendly web applications with React, Next.js and Node.js.
+Building modern, scalable and responsive web applications with React, Next.js and Node.js.
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=TonoySharma&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 </div>
 
 
----
-
 # 👋 About Me
 
 Hello! I'm **Tonoy Sharma**, a passionate **MERN Stack Developer** and CSE student.
 
-I love building full-stack web applications and solving real-world problems through technology.
+I specialize in building full-stack web applications with modern technologies like React, Next.js, Node.js and MongoDB.
 
-Currently, I am focusing on modern frontend development, backend architecture and improving my problem-solving skills.
+I enjoy creating clean UI, solving problems and transforming ideas into real-world applications.
 
-I enjoy learning new technologies and creating impactful digital experiences.
+Currently focusing on advanced frontend development, backend architecture and improving my coding skills.
 
 
 ---
 
 # 🚀 Current Activities
 
-- 🌱 Exploring **Next.js App Router and Server Components**
-- 🔥 Improving my skills in **Backend Development with Node.js & Express**
-- 💻 Building modern full-stack projects
+- 🌱 Exploring **Next.js App Router & Server Components**
+- 🔥 Improving backend development with **Node.js & Express.js**
+- 💻 Building full-stack web applications
 - 📚 Practicing Data Structures & Algorithms
-- 🚀 Working on improving UI/UX design skills
+- 🎨 Learning advanced UI/UX patterns
+- 🚀 Working on scalable web solutions
 
 
 ---
@@ -40,21 +43,21 @@ I enjoy learning new technologies and creating impactful digital experiences.
 # 🛠️ Skills & Technologies
 
 
-## 🎨 Frontend Development
+## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind"/>
 </p>
 
 
-## ⚙️ Backend Development
+## ⚙️ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 </p>
 
 
-## 🧰 Tools & Others
+## 🧰 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
@@ -66,59 +69,77 @@ I enjoy learning new technologies and creating impactful digital experiences.
 # 🌐 Connect With Me
 
 
-<p>
+<p align="left">
 
 <a href="https://github.com/TonoySharma">
 <img src="https://img.shields.io/badge/GitHub-TonoySharma-black?style=for-the-badge&logo=github"/>
 </a>
 
-
 <a href="https://www.linkedin.com/in/tonoysharma58/">
 <img src="https://img.shields.io/badge/LinkedIn-Tonoy%20Sharma-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-
 <a href="mailto:tonoysharma58@gmail.com">
-<img src="https://img.shields.io/badge/Email-tonoysharma58@gmail.com-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 
 📍 Location: Bangladesh  
-📞 Contact: +8801793948085  
-📧 Email: tonoysharma58@gmail.com
+📧 Email: tonoysharma58@gmail.com  
+📞 Phone: +8801793948085
 
 
 ---
 
-# 💻 Featured Projects
+# 🚀 Featured Projects
 
 
 ## 📚 Fable - Ebook Sharing Platform
 
-A modern ebook sharing platform where users can explore, purchase and manage ebooks.
+A modern ebook sharing platform where users can discover, purchase and manage digital books.
 
-**Tech Stack:**
+### ✨ Features
+
+- User authentication
+- Browse and search ebooks
+- Ebook purchasing system
+- Writer dashboard
+- Bookmark system
+- Payment integration
+
+
+### 🛠️ Technologies
 
 - Next.js
-- MongoDB
 - Tailwind CSS
+- MongoDB
 - BetterAuth
 - Stripe
 
 
-🔗 Live:
-(Add your live link)
+🔗 **Live Demo:**  
+https://ebook-sharing-platform.vercel.app/
 
 
 ---
 
+
 ## 🚗 DriveFleet - Car Rental Platform
 
-A complete car rental management system with booking functionality.
+A complete car rental management application with booking and car management features.
 
-**Tech Stack:**
+### ✨ Features
+
+- User authentication
+- Add and manage cars
+- Car booking system
+- User dashboard
+- Responsive design
+
+
+### 🛠️ Technologies
 
 - React
 - Node.js
@@ -127,42 +148,53 @@ A complete car rental management system with booking functionality.
 - Tailwind CSS
 
 
-🔗 Live:
-(Add your live link)
+🔗 **Live Demo:**  
+https://drive-fleet-five.vercel.app/
 
 
 ---
+
 
 ## 🎓 SkillSphere - Online Learning Platform
 
-An online learning platform for managing courses and learning resources.
+An online learning platform designed for managing courses and educational resources.
 
-**Tech Stack:**
+### ✨ Features
+
+- Course management
+- User authentication
+- Responsive UI
+- Modern dashboard
+
+
+### 🛠️ Technologies
 
 - Next.js
+- Tailwind CSS
 - MongoDB
 - Authentication
-- Tailwind CSS
 
 
-🔗 Live:
-(Add your live link)
+🔗 **Live Demo:**  
+https://skill-sphere-assignment-8.vercel.app/
 
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TonoySharma&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=TonoySharma&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TonoySharma&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TonoySharma&theme=tokyonight&hide_border=true"/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonoySharma&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonoySharma&layout=compact&theme=tokyonight&hide_border=true"/>
+
 
 </div>
 
@@ -173,7 +205,7 @@ An online learning platform for managing courses and learning resources.
 
 🏅 Completed Programming Hero Complete Web Development Course
 
-🏅 Built 25+ real-world web projects
+🏅 Built 25+ real-world projects
 
 🏅 Top 20 students among 5000+ learners in Programming Hero Bootcamp
 
@@ -182,6 +214,8 @@ An online learning platform for managing courses and learning resources.
 
 <div align="center">
 
-⭐ Thanks for visiting my profile ⭐
+### ⭐ Thanks for visiting my profile ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:2563eb&height=100&section=footer"/>
 
 </div>
