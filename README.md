@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:22c55e&height=220&section=header&text=Tonoy%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<h2>👨‍💻 MERN Stack Developer</h2>
+<h2>👨‍💻 Full Stack Developer</h2>
 
 <p>
 Building modern, scalable and responsive web applications with React, Next.js and Node.js.
@@ -17,7 +17,7 @@ Building modern, scalable and responsive web applications with React, Next.js an
 
 # 👋 About Me
 
-Hello! I'm **Tonoy Sharma**, a passionate **MERN Stack Developer** and CSE student.
+Hello! I'm **Tonoy Sharma**, a passionate **Full Stack Developer**.
 
 I specialize in building full-stack web applications with modern technologies like React, Next.js, Node.js and MongoDB.
 
@@ -88,7 +88,7 @@ Currently focusing on advanced frontend development, backend architecture and im
 
 📍 Location: Bangladesh  
 📧 Email: tonoysharma58@gmail.com  
-📞 Phone: +8801793948085
+📞 Phone: +88017*******
 
 
 ---
@@ -122,9 +122,7 @@ A modern ebook sharing platform where users can discover, purchase and manage di
 🔗 **Live Demo:**  
 https://ebook-sharing-platform.vercel.app/
 
-
 ---
-
 
 ## 🚗 DriveFleet - Car Rental Platform
 
@@ -151,9 +149,7 @@ A complete car rental management application with booking and car management fea
 🔗 **Live Demo:**  
 https://drive-fleet-five.vercel.app/
 
-
 ---
-
 
 ## 🎓 SkillSphere - Online Learning Platform
 
@@ -177,7 +173,6 @@ An online learning platform designed for managing courses and educational resour
 
 🔗 **Live Demo:**  
 https://skill-sphere-assignment-8.vercel.app/
-
 
 ---
 
