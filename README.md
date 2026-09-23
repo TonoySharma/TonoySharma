@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:22c55e&height=220&section=header&text=Tonoy%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<h2>👨‍💻 Full Stack Developer</h2>
+<h2>👨‍💻 Frontend Web Developer</h2>
 
 <p>
 Building modern, scalable and responsive web applications with React, Next.js and Node.js.
@@ -17,7 +17,7 @@ Building modern, scalable and responsive web applications with React, Next.js an
 
 # 👋 About Me
 
-Hello! I'm **Tonoy Sharma**, a passionate **Full Stack Developer**.
+Hello! I'm **Tonoy Sharma**, a passionate **Frontend Web Developer**.
 
 I specialize in building full-stack web applications with modern technologies like React, Next.js, Node.js and MongoDB.
 
